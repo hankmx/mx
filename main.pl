@@ -14,6 +14,5 @@ sub isDutSimplexed() {
     return 1;
 }
 
-print "OK\n" if ( $simplexed || not isDutSimplexed() );
 
 
